@@ -1,0 +1,92 @@
+
+(domain.Event#equals(Ljava/lang/Object;)ZH
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.java… …("startingBlock*¡
+2H
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.javaŽ
+ Ž("R
+H
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.javaŽ Ž(
+""*ˆ
+3H
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.javaŒ Œ(…
+‚
+H
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.javaŒ Œ(
+otherdomain.Event"__id*
+
+objjava.lang.Object
+Œ
+H
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.java (
+%2java.lang.Integer"__id*!*
+domain.Event"
+eventNumber–
+“
+H
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.java (&
+%3java.lang.Integer"__id*(*&
+
+otherdomain.Event"
+eventNumber*
+2
+1*ö
+startingBlockH
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.java… …("’
+
+H
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.java„ „(
+
+%4"
+__annotate*
+java.lang.Override*
+
+objjava.lang.Object{
+y
+H
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.java… …(!
+objjava.lang.Object"__annotation*
+
+%4*	
+5
+6
+8*¡
+4H
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.java‹
+ ‹("R
+H
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.java‹ ‹(
+""*Ä
+5H
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.javaŠ Š(°­
+H
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.javaŠ Š(
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+domain.Event2
+getClass()¹¶
+H
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.javaŠ Š("
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+objjava.lang.Object2
+getClass()*
+3
+4*¡
+6H
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.java‰
+ ‰("R
+H
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.java‰ ‰(
+""*¡
+8H
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.java‡
+ ‡("R
+H
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.java‡ ‡(
+""*¡
+1H
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.java	 ("R
+H
+<C:/Users/MIKEL1/git/Bets2021/src/main/java/domain/Event.java (
+"":
+objjava.lang.ObjectB
+domain.Event

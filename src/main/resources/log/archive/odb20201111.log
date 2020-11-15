@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2020-11-11 17:00:27 #1 store] 
+Database 'C:\Users\galan\eclipse-workspace\Bets2021-Berria\src\main\resources\bets.temp' has been recovered (tr. 508-519)
+
+[2020-11-11 17:00:27 #2 store] 
+Database 'C:\Users\galan\eclipse-workspace\Bets2021-Berria\src\main\resources\bets.temp' is opened by 14896@DESKTOP-GNV5VMN
+
+[2020-11-11 17:00:27 #3 type] 
+Type domain.Question is not enhanced.
+
+[2020-11-11 17:00:27 #4 type] 
+Type domain.Event is not enhanced.
+
+[2020-11-11 17:00:27 #5 type] 
+Type domain.User is not enhanced.
+
+[2020-11-11 17:00:27 #6 type] 
+Type domain.Mugimenduak is not enhanced.
+
+[2020-11-11 17:00:27 #7 type] 
+Type domain.ApustuAnizkoitza is not enhanced.
+
+[2020-11-11 17:00:27 #8 type] 
+Type domain.Apustua is not enhanced.
+
+[2020-11-11 17:00:27 #9 type] 
+Type domain.Kuota is not enhanced.
+
